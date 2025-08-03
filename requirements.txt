@@ -1,0 +1,10 @@
+arviz
+linearmodels
+numpy==1.26.4
+openpyxl
+pandas==2.2.2
+pandas-datareader==0.10.0
+pymc
+scipy==1.10.1
+statsmodels==0.13.5
+matplotlib==3.9.2
